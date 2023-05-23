@@ -169,13 +169,13 @@ NOTE: Puede poner en marcha Astra Control Center en un clúster de Kubernetes de
 | Consumidor de métricas | Nodo de trabajo de Astra Control Center | 9090 | HTTPS | Comunicación de datos de métricas: Asegúrese de que cada clúster gestionado pueda acceder a este puerto en el clúster que aloja a Astra Control Center (se requiere una comunicación bidireccional) 
 
 
-| Astra Control Center | Servicio Cloud Insights alojado (https://www.netapp.com/cloud-services/cloud-insights/)[] | 443 | HTTPS | Comunicación de Cloud Insights 
+| Astra Control Center | Servicio Cloud Insights alojado  | 443 | HTTPS | Comunicación de Cloud Insights 
 
 
 | Astra Control Center | Proveedor de bloques de almacenamiento Amazon S3 | 443 | HTTPS | Comunicación del almacenamiento de Amazon S3 
 
 
-| Astra Control Center | AutoSupport de NetApp (https://support.netapp.com)[] | 443 | HTTPS | Comunicación AutoSupport de NetApp 
+| Astra Control Center | AutoSupport de NetApp  | 443 | HTTPS | Comunicación AutoSupport de NetApp 
 |===
 
 
